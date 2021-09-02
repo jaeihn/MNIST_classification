@@ -1,0 +1,6 @@
+*.DS_Store
+*__pycache__/
+*hist/
+predict_mnist.ipynb
+_MnistDataset.py
+
